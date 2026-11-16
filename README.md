@@ -86,13 +86,10 @@ Slipstream was built for the Vultr Agent Rush hackathon on lablab.ai, for the "B
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/05-red-team-scorecard.png" alt="Red Team escape scorecard with BLOCKED badges for each escape attempt">
-      <br><sub>Red Team escape scorecard: each escape attempt marked BLOCKED.</sub>
+      <img src="docs/screenshots/05-red-team-memory.png" alt="Red Team memory bomb audit: the run was killed at its 128 MB memory limit and the sandbox was deleted">
+      <br><sub>Red Team memory bomb: stopped at its 128 MB memory limit.</sub>
     </td>
-    <td width="50%">
-      <img src="docs/screenshots/06-mobile.png" alt="Slipstream on a 390 pixel wide phone screen">
-      <br><sub>Mobile layout at 390 px wide.</sub>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
